@@ -12,3 +12,13 @@ Controles
   V                          video de 1:55 (solo si sobra tiempo); Esc para cerrarlo
   B                          pantalla negra
   1 a 8                      ir a esa diapositiva
+  Inicio (tecla) o ↺ Inicio   volver al principio (botón abajo a la izquierda; en la última diapositiva, "Volver al inicio")
+
+Video en YouTube
+  El botón "Video" de la diapositiva 8 y la tecla V abren el video en YouTube: https://youtu.be/p7n_KaIrNlc
+  El enlace está en la línea <meta name="polisafe-video" content="..."> (dentro de <head>). Si esa línea
+  queda vacía, o el navegador bloquea la pestaña, se reproduce PoliSafe_Primer_Nivel_Video.mp4 junto al HTML.
+
+Para GitHub Pages
+  Sube el HTML (renómbralo index.html si será la página principal). Con el enlace de YouTube puesto,
+  el mp4 ya no hace falta.
