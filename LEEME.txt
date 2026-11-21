@@ -1,0 +1,14 @@
+PoliSafe Primer Nivel · Pitch · Equipo 40 · Hackathon Jalisco Internacional 2026
+
+1. Descomprime la carpeta completa (el HTML y el video deben quedar juntos).
+2. Abre PoliSafe_Primer_Nivel_Pitch.html con Chrome o Edge. No necesita internet.
+3. Presiona F para pantalla completa.
+
+Controles
+  Flecha derecha o espacio   siguiente paso (cada clic es una frase del guion)
+  Flecha izquierda           paso anterior
+  N                          notas del orador
+  P                          vista del orador en otra ventana, con cronómetro
+  V                          video de 1:55 (solo si sobra tiempo); Esc para cerrarlo
+  B                          pantalla negra
+  1 a 8                      ir a esa diapositiva
